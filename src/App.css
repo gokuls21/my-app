@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.Person-heading {
+  color: red;
+  font-weight: bold;
+}
+
+.person-font {
+  font-size: 20px;
+}
